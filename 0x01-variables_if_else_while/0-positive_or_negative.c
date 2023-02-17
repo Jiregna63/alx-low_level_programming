@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 /**
  *  main - a comment
- *  Return: 0 (success
+ *  Return: Always 0 (success)
  */
 int main(void)
 {
